@@ -1,4 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
 
 .main {
     font-family: "Roboto", sans-serif;
@@ -66,12 +65,7 @@ span {
     color: white;
 }
 .footer-studio{
-    color: white;
-}
-p{
-    line-height: 1.5;
-    color: #F4F4FD;
-    letter-spacing: 0.02em;
+    color: #2e2f42;
 }
 .section-h1{
     font-size: 56px;
@@ -80,9 +74,27 @@ p{
 .link-index{
     font-weight: 500;
 }
-.link-index::selection{
-    color:#404bbf;
+.link-index:hover{
+    color: #404bbf
+}
+.link-index:focus {
+    color: #404bbf
 }
 .adress-tag{
     font-style: normal;
+}
+.footer_class{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
+}
+.section_h2{
+    font-size: 36px;
+    line-height: 1.11;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+}
+img{
+    width: 360px;
 }

@@ -76,3 +76,12 @@ p{
     font-size: 56px;
     line-height: 1.07
 }
+.link-index{
+    font-weight: 500;
+}
+.link-index:hover{
+    color:#404bbf;
+}
+.adress-tag{
+    font-style: normal;
+}

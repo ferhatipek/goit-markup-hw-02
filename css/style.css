@@ -1,0 +1,56 @@
+body {
+    font-family: "Roboto", sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
+}
+
+a {
+    color: inherit;
+    font-size: inherit;
+}
+
+.hero {
+    background-color: #2E2F42;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+button {
+    color: white;
+    background-color: #4d5ae5;
+}
+
+button:hover {
+    background-color: #404bbf;
+}
+
+.logo-web {
+    color: #4D5AE5;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Raleway;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+.logo {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: Raleway;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+
+span {
+    color: #2e2f42;
+}
+
+.footer-side {
+    background-color: #2e2f42;
+    color: white;
+}

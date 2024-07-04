@@ -29,7 +29,7 @@ button:hover {
 }
 
 .logo-web {
-    color: #4D5AE5;
+    color: #4d5ae5;
     font-size: 18px;
     font-weight: bold;
     font-family: "Raleway";
@@ -38,17 +38,15 @@ button:hover {
     text-transform: uppercase;
 }
 
-.logo {
-    font-size: 18px;
-    font-weight: bold;
-    font-family: "Raleway";
-    line-height: 1.17;
-    letter-spacing: 0.03em;
-    text-transform: uppercase;
-}
 
 span {
-    color: #2e2f42;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Raleway";
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: #434455;
 }
 
 .footer-side {

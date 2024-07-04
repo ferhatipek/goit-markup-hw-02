@@ -1,5 +1,7 @@
 body{
-    font-family: "roboto",sans-serif;
+    font-family: "Roboto","Railway",sans-serif;
+    color: #434455;
+    background-color: #FFFFFF;
 }
 a{
     color: inherit;
@@ -23,9 +25,19 @@ button:hover{
     color:#4D5AE5 ;
     font-size: 18px;
     font-weight: bold;
+    font-family: Raleway;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
 }
 .logo {
-    color: #2E2F42;
     font-size: 18px;
     font-weight: bold;
+    font-family: Raleway;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
+span{
+    color:#2e2f42;
 }

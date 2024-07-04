@@ -1,3 +1,4 @@
+
 .main {
     font-family: "Roboto", sans-serif;
     color: #434455;
@@ -42,7 +43,7 @@ h1 {
     color: #4d5ae5;
     font-size: 18px;
     font-weight: bold;
-    font-family: Raleway;
+    font-family: "Raleway";
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -52,7 +53,7 @@ h1 {
 span {
     font-size: 18px;
     font-weight: bold;
-    font-family: Raleway;
+    font-family: "Raleway";
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -70,4 +71,8 @@ p{
     line-height: 1.5;
     color: #F4F4FD;
     letter-spacing: 0.02em;
+}
+.section-h1{
+    font-size: 56px;
+    line-height: 1.07
 }

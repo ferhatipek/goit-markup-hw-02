@@ -99,3 +99,8 @@ span {
 img{
     width: 360;
 }
+p {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+
+}

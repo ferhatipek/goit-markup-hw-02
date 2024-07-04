@@ -5,9 +5,15 @@
 }
 
 a {
-    color: inherit;
+    /*color: inherit;*/
     font-size: inherit;
     font-family: "Raleway";
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+a:hover{
+    color: #404bbf
 }
 
 .hero {
@@ -32,7 +38,7 @@ button:hover {
     color: #4d5ae5;
     font-size: 18px;
     font-weight: bold;
-    font-family: "Raleway";
+    font-family: Raleway;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
@@ -42,11 +48,11 @@ button:hover {
 span {
     font-size: 18px;
     font-weight: bold;
-    font-family: "Raleway";
+    font-family: Raleway;
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    color: #434455;
+    color: #2e2f42;
 }
 
 .footer-side {

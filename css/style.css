@@ -12,6 +12,19 @@ a {
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.order-btn{
+    
+    font-size: inherit;
+    font-family: "Raleway";
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: white;
+    background-color: #4d5ae5;
+}
+.order-btn:hover{
+    background-color: #404bbf;
+    color: white;
+}
 a:hover{
     color: #404bbf
 }
@@ -23,15 +36,6 @@ a:hover{
 h1 {
     color: white;
     text-align: center;
-}
-
-button {
-    color: white;
-    background-color: #4d5ae5;
-}
-
-button:hover {
-    background-color: #404bbf;
 }
 
 .logo-web {
@@ -58,4 +62,12 @@ span {
 .footer-side {
     background-color: #2e2f42;
     color: white;
+}
+.footer-studio{
+    color: white;
+}
+p{
+    line-height: 1.5;
+    color: #F4F4FD;
+    letter-spacing: 0.02em;
 }

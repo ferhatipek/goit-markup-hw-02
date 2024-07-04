@@ -79,7 +79,7 @@ p{
 .link-index{
     font-weight: 500;
 }
-.link-index:hover{
+.link-index::selection{
     color:#404bbf;
 }
 .adress-tag{

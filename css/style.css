@@ -22,7 +22,7 @@ section{
     color: #2e2f42;
 
 }
-.section-tree-liste{
+.tree_{
 background-color: #FFFFFF;
 }
 
@@ -124,8 +124,9 @@ span {
     font-size: 56px;
     line-height: 1.07
 }
-._link{
+.link_{
     font-weight: 500;
+    color: #2e2f42;
 }
 .link-index:hover{
     color: #404bbf
@@ -150,7 +151,7 @@ span {
     color:#2e2f42;
 }
 img{
-    width: 360;
+    width: 360px;
 }
 p {
     line-height: 1.5;

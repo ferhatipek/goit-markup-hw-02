@@ -49,3 +49,7 @@ button:hover {
 span {
     color: #2e2f42;
 }
+.footer-side{
+    background-color: #2e2f42;
+    color: white;
+}

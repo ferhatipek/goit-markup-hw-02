@@ -1,0 +1,31 @@
+body{
+    font-family: "roboto",sans-serif;
+}
+a{
+    color: inherit;
+    font-size: inherit;
+}
+.hero{
+    background-color:#2E2F42;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+button{
+    color: white;
+    background-color:#4d5ae5 ;
+}
+button:hover{
+    background-color: #404bbf;
+}
+.logo-web{
+    color:#4D5AE5 ;
+    font-size: 18px;
+    font-weight: bold;
+}
+.logo {
+    color: #2E2F42;
+    font-size: 18px;
+    font-weight: bold;
+}

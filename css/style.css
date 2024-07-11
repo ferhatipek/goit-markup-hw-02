@@ -20,6 +20,12 @@ a:hover {
 a:focus {
     color: #404bbf;
 }
+.section-tree{
+    background-color: #f4f4fd;
+}
+.tree_{
+    background-color: #FFFFFF;
+}
 .link_one{
     font-weight: 500;
     line-height: 1.5;
@@ -120,5 +126,9 @@ img {
 p {
     line-height: 1.5;
     letter-spacing: 0.02em;
+
+}
+.footer_class{
+    color: #F4F4FD;
 
 }

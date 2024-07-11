@@ -1,106 +1,13 @@
-body {
+body{
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
-    width: 100%;
 }
 .main {
     font-family: "Roboto", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
-section{
-    background-color: #f4f4fd;
-
-}
-.section-title{
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
-
-}
-.tree_{
-background-color: #FFFFFF;
-}
-
-.section-tree-prag{
-    font-size: 16px;
-}
-button{
-    background-color: #4D5AE5;
-    font-family: "Roboto", sans-serif;
-    font-weight: 500;
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
-    color: #ffffff;
-    cursor: pointer;
-}
-button:hover{
-    background-color: #404BBF;
-
-}
-button:focus{
-    background-color: #404BBF;
-}
-a {
-    /*color: inherit;*/
-    font-size: inherit;
-    font-family: Raleway;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455
-}
-a:hover{
-    color: #404bbf;
-}
-.order-btn{
-    
-    font-size: inherit;
-    font-family: Raleway;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: white;
-    background-color: #4d5ae5;
-}
-.order-btn:hover{
-    background-color: #404bbf;
-    color: white;
-}
-a:focus{
-    color: #404bbf
-}
-
-.hero {
-    background-color: #2E2F42;
-}
-
-h1 {
-    color: white;
-    text-align: center;
-    letter-spacing: 0.02em;
-}
-h2{
-    font-size: 36px;
-    line-height: 1.11;
-    text-align: center;
-    letter-spacing: 0.02em;
-    text-transform: capitalize;
-    color: #2e2f42;
-
-}
-h3{
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    color: #2e2f42
-
-}
-
 ._logo {
     color: #4d5ae5;
     font-size: 18px;
@@ -110,8 +17,6 @@ h3{
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
-
-
 span {
     font-size: 18px;
     font-weight: bold;
@@ -121,45 +26,58 @@ span {
     text-transform: uppercase;
     color: #2e2f42;
 }
-
+.footer-studio {
+    color: #F4F4FD;
+}
 .footer-side {
     background-color: #2e2f42;
     color: white;
 }
-.footer-studio{
-    color: #F4F4FD;
-}
-._section{
-    font-size: 56px;
-    line-height: 1.07
-}
-.link_{
+button {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
     font-weight: 500;
-    color: #2e2f42;
-}
-.link-index:hover{
-    color: #404bbf
-}
-.link-index:focus {
-    color: #404bbf
-}
-.adress-tag{
-    font-style: normal;
-}
-.footer_class{
+    font-size: 16px;
     line-height: 1.5;
-    color: #F4F4FD;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #404BBF;
+
+}
+
+button:focus {
+    background-color: #404BBF;
+}
+.hero {
+    background-color: #2E2F42;
+}
+h1 {
+    color: white;
+    text-align: center;
     letter-spacing: 0.02em;
 }
-.section4-baslik{
+
+h2 {
     font-size: 36px;
     line-height: 1.11;
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color:#2e2f42;
+    color: #2e2f42;
+
 }
-img{
+h3 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42
+}
+img {
     width: 360px;
 }
 p {

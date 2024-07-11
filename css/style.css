@@ -6,6 +6,20 @@ body{
 address{
     font-style: normal;
 }
+a {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+
+}
+
+a:hover {
+    color: #404bbf;
+}
+
+a:focus {
+    color: #404bbf;
+}
 .link_one{
     font-weight: 500;
     line-height: 1.5;
@@ -14,6 +28,7 @@ address{
     line-height: 1.5;
 
 }
+
 .link_one:hover{
 color: #404bbf;
 }
@@ -28,7 +43,7 @@ font-family: "Raleway", sans-serif;
     color: #434455;
     background-color: #FFFFFF;
 }
-._logo {
+.logo_studio {
     color: #4d5ae5;
     font-size: 18px;
     font-weight: bold;
